@@ -56,7 +56,7 @@
 
 - Clone project từ GitHub về máy:  
   ```bash
-  https://github.com/NguyenKhanh04/CDS-Ung_Dung_CDS_Trong_Quan_Li_Benh_Vien.git
+ git@github.com:tienbuicf35/Ung_Dung_CDS_Trong_Quan_Ly_Benh_Vien.git
 
 ### Bước 2: Cấu hình cơ sở dữ liệu
 - Truy cập phpMyAdmin:
