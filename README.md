@@ -40,9 +40,9 @@
 ## 🖼️ 3.  Hình ảnh các chức năng chính
 
 ### 🔹 Giao diện màn hình chính 
-[![alt text](image.png)](https://github.com/NguyenKhanh04/CDS-Ung_Dung_CDS_Trong_Quan_Li_Benh_Vien/raw/main/image-1.png)
+[[![alt text](image.png)](https://github.com/NguyenKhanh04/CDS-Ung_Dung_CDS_Trong_Quan_Li_Benh_Vien/raw/main/image-1.png)](https://github.com/NguyenKhanh04/CDS-Ung_Dung_CDS_Trong_Quan_Li_Benh_Vien/raw/main/image-1.png)
 
-### 🔹 Tính năng chatbot nổi bật và chuyển đổi 
+### 🔹 Tính năng chatbot nổi bật và chuyển đổi số
 [![alt text](image-1.png)](https://github.com/NguyenKhanh04/CDS-Ung_Dung_CDS_Trong_Quan_Li_Benh_Vien/raw/main/image-1.png)
 
 
