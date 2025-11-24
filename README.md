@@ -44,7 +44,7 @@
 
 
 ### 🔹 Tính năng chatbot nổi bật và chuyển đổi số
-<img width="561" height="866" alt="image" src="https://github.com/user-attachments/assets/758f26de-33f5-4c56-9100-7baea0e26874" />
+<img width="504" height="801" alt="image" src="https://github.com/user-attachments/assets/4bedfb8a-feaa-49e1-b1d6-a62b545b4e0c" />
 
 
 
